@@ -573,4 +573,7 @@ app.post('/data', async (req, res) => {
 const port = 3000;
 app.listen(port, () => {
     console.log(`Server running on port ${port} and ip : ${ip}`);
+    console.log(`Server running on port ${port} and ip : ${ip}`);
+    console.log(`Server running on port ${port} and ip : ${ip}`);
+
 });
